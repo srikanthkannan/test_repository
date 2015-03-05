@@ -1,1 +1,2 @@
 adding a new file to try git merge with squash
+and git rebase
